@@ -12,6 +12,8 @@
 		AC663FED1EF45F700072B800 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC663FEB1EF45F700072B800 /* Main.storyboard */; };
 		AC663FEF1EF45F700072B800 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC663FEE1EF45F700072B800 /* Assets.xcassets */; };
 		AC663FF21EF45F700072B800 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC663FF01EF45F700072B800 /* LaunchScreen.storyboard */; };
+		AC663FFA1EF465AE0072B800 /* IM_A0059.JPG in Resources */ = {isa = PBXBuildFile; fileRef = AC663FF91EF465AE0072B800 /* IM_A0059.JPG */; };
+		AC663FFC1EF467DC0072B800 /* IM_A0142.JPG in Resources */ = {isa = PBXBuildFile; fileRef = AC663FFB1EF467DB0072B800 /* IM_A0142.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		AC663FEE1EF45F700072B800 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC663FF11EF45F700072B800 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC663FF31EF45F700072B800 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC663FF91EF465AE0072B800 /* IM_A0059.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IM_A0059.JPG; path = ../../../../Desktop/IM_A0059.JPG; sourceTree = "<group>"; };
+		AC663FFB1EF467DB0072B800 /* IM_A0142.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IM_A0142.JPG; path = ../../../../Desktop/IM_A0142.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				AC663FE61EF45F700072B800 /* Postcard */,
+				AC663FFD1EF46DAC0072B800 /* Supporting Files */,
 				AC663FE51EF45F700072B800 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -62,6 +67,15 @@
 				AC663FF31EF45F700072B800 /* Info.plist */,
 			);
 			path = Postcard;
+			sourceTree = "<group>";
+		};
+		AC663FFD1EF46DAC0072B800 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				AC663FF91EF465AE0072B800 /* IM_A0059.JPG */,
+				AC663FFB1EF467DB0072B800 /* IM_A0142.JPG */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,8 +137,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC663FF21EF45F700072B800 /* LaunchScreen.storyboard in Resources */,
+				AC663FFC1EF467DC0072B800 /* IM_A0142.JPG in Resources */,
 				AC663FEF1EF45F700072B800 /* Assets.xcassets in Resources */,
 				AC663FED1EF45F700072B800 /* Main.storyboard in Resources */,
+				AC663FFA1EF465AE0072B800 /* IM_A0059.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
